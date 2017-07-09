@@ -51,7 +51,7 @@ even drag and drop files.
 
 ### Screenshots
 
-![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 1.gif) | ![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 2.gif)
+![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif%201.gif) | ![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif%202.gif)
 :---:|:---:
 Usage on GNOME 3 | Drag and drop on GNOME 3
 
