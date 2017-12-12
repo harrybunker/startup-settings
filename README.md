@@ -51,12 +51,12 @@ even drag and drop files.
 
 ### Screenshots
 
-![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif%201.gif) | ![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif%202.gif)
+![img](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/gif%201.gif) | ![img](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/gif%202.gif)
 :---:|:---:
 Usage on GNOME 3 | Drag and drop on GNOME 3
 
 
-![alt-text](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/kde.png "KDE 5") | ![alt-text](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/cinnamon.png "Cinnamon 3") |  ![alt-text](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/xfce4.png "XFCE 4")
+![alt-text](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/kde.png "KDE 5") | ![alt-text](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/cinnamon.png "Cinnamon 3") |  ![alt-text](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/xfce4.png "XFCE 4")
 :-------------------------:|:-------------------------:|:-------------------------:
 KDE 5                      | Cinnamon 3                | XFCE 4          
 
