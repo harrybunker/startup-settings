@@ -53,7 +53,7 @@ Arch/Manjaro x64: `sudo pacman -S gcc-multilib git make gtk3` <br />
 
 ### Скриншоты
 
-![img](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/gif201.gif) | ![img](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/gif202.gif)
+![img](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/gif%201.gif) | ![img](https://raw.githubusercontent.com/hant0508-zz/tmp/master/startup-settings/gif%202.gif)
 :---:|:---:
 Usage on GNOME 3 | Drag and drop on GNOME 3
 
